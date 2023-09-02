@@ -1,4 +1,4 @@
-LLVM Docker images
+LLVM  Docker images
 ====================
 
 This repository contains the source for building of
